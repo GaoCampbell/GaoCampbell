@@ -20,7 +20,7 @@
 </p>
 
 * 💻 System engineer specializing in Front-End. 
-* 📸 Currently studying Master in [Fintech & MBA](https://imba.ntut.edu.tw/) in Taiwan. 
+* 📸 Currently working on my Master D. in [Fintech & MBA](https://imba.ntut.edu.tw/) in Taiwan. 
 * 📊 Into ML/AI, Backend & Data Analysis.
 * 💥 Loves making new Idea or product into reality.
 * 📍 From South America, but Currently risiding in [Taiwan](https://en.wikipedia.org/wiki/Taiwan).
