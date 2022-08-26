@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/gychY6X/19362653.jpg" width="350" alt="iComics on an iPhone XS Max" align="right"  />
+<img src="https://i.ibb.co/gychY6X/19362653.jpg" width="450" alt="iComics on an iPhone XS Max" align="right"  />
 </p>
 
 
