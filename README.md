@@ -18,9 +18,9 @@
 
 </p>
 
-* 💻 System engineer specializing in Front-End. 
+* 💻 System engineer passionate about Fullstack Dev. 
 * 📖 Studying for my Master D. in [Fintech & MBA](https://imba.ntut.edu.tw/) in Taiwan. 
-* 📊 Into ML/AI, Backend & Data Analysis.
+* 📊 Working in my Master Academic paper Imbalanced dataset with ML/AI.
 * 💥 Loves making new Idea or product into reality.
 * 📍 From South America, but Currently risiding in [Taiwan](https://en.wikipedia.org/wiki/Taiwan).
 * 🤸‍♂️ If I'm not making UI, you can find me at the GYM.
