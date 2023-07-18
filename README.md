@@ -20,8 +20,8 @@
 
 * 💻 System engineer passionate about Fullstack Dev. 
 * 📖 Studying for my Master D. in [Fintech & MBA](https://imba.ntut.edu.tw/) in Taiwan. 
-* 📊 Working in my Master Academic paper Imbalanced dataset with ML/AI.
-* 💥 Loves making new Idea or product into reality.
-* 📍 From South America, but Currently risiding in [Taiwan](https://en.wikipedia.org/wiki/Taiwan).
-* 🤸‍♂️ If I'm not making UI, you can find me at the GYM.
+* 📊 Working on my Master's Academic paper Imbalanced dataset with ML/AI.
+* 💥 Loves making new Ideas or products into reality.
+* 📍 From South America, but Currently residing in [Taiwan](https://en.wikipedia.org/wiki/Taiwan).
+* 🤸‍♂️ If I'm not making UI or coding, you can find me at the GYM.
 * 😁 Nice to meet you!
